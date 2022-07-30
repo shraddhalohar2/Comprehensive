@@ -1,0 +1,516 @@
+[INFO ] 2022-07-29 13:07:45.392 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:07:50.786 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:07:50.807 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:08:00.513 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:08:00.758 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:08:01.057 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:08:36.028 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:08:40.704 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:08:40.728 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:08:48.224 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:08:48.453 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:08:48.769 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:26:28.027 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:26:33.708 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:26:33.726 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 13:26:40.211 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 13:26:40.435 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:29:49.080 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:29:52.199 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:29:52.220 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 13:29:59.764 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 13:30:00.012 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:30:27.199 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:30:31.963 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:30:31.984 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:30:39.647 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 13:30:39.937 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 13:30:40.186 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:31:07.836 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:31:10.987 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:31:11.006 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:31:19.112 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 13:31:29.687 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 13:31:29.972 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:32:20.745 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:32:25.763 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:32:25.779 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:32:37.126 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:32:44.173 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:32:44.173 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:32:44.622 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:32:44.965 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:42:58.311 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:43:03.407 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:43:03.426 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:43:04.951 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:43:12.976 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:43:20.145 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:43:20.145 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:43:20.146 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:43:20.608 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:43:20.944 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:44:17.660 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:44:22.128 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:44:22.149 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:44:23.680 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:44:33.032 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:44:40.436 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:44:40.436 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:44:40.436 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:44:40.891 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:44:41.229 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:45:21.015 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:45:25.689 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:45:25.714 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:45:30.148 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 13:45:41.544 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 13:45:41.783 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:47:09.292 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:47:13.904 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:47:13.920 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:47:18.460 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:47:26.247 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:47:34.226 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:47:34.226 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:47:34.226 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:47:34.698 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:47:35.015 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 13:59:20.235 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 13:59:25.227 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 13:59:25.250 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:59:31.160 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:59:35.627 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:59:42.992 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 13:59:50.372 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:59:50.372 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:59:50.372 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:59:50.372 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 13:59:50.817 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 13:59:51.155 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:07:37.986 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:07:42.494 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:07:42.518 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:07:52.753 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:07:52.951 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:08:23.737 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:08:26.704 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:08:26.725 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:08:37.055 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:08:37.263 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:09:18.737 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:09:21.803 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:09:21.824 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:09:26.104 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:09:26.483 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 14:09:26.772 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:12:12.327 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:12:16.985 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:12:17.008 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:12:26.361 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:12:37.333 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:12:37.691 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:20:20.204 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:20:24.747 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:20:24.770 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:20:33.734 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:20:38.453 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:20:43.008 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:20:55.243 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:20:58.487 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:20:58.509 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:21:08.846 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:21:19.435 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:21:29.601 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:21:38.934 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:21:46.481 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:21:46.481 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:21:46.481 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:21:46.481 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:21:46.481 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:21:47.001 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 14:21:47.406 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:28:04.705 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:28:08.113 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:28:08.139 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:28:12.873 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:28:17.431 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:28:30.295 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:28:30.560 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:28:54.975 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:28:57.715 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:28:57.760 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:28:57.854 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:29:07.249 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:29:11.929 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:29:11.951 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:29:21.407 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:29:26.018 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:29:30.876 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:29:40.040 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:29:47.573 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:29:47.574 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:29:47.574 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:29:47.574 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:29:47.574 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:29:48.060 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 14:29:48.519 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:43:54.472 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:43:59.292 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:43:59.311 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:44:08.270 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:44:19.045 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:44:19.381 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:44:25.840 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:44:28.492 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:44:28.513 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:44:36.751 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:44:41.413 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:44:46.101 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:44:54.598 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:44:55.887 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:44:56.224 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:45:31.309 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:45:36.217 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:45:36.236 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:45:44.691 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:45:49.201 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:45:49.509 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:46:29.453 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:46:32.320 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:46:32.343 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:46:40.921 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:46:45.463 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:46:50.090 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:46:58.874 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:47:00.040 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:47:00.416 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:47:51.321 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:48:22.606 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:48:22.635 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:48:22.720 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:49:13.018 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:49:18.511 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:49:18.532 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:49:27.967 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:49:32.473 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:49:36.938 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:49:48.146 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:49:48.462 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:50:10.595 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:50:13.896 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:50:13.919 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:50:22.672 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 14:50:23.637 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 14:50:23.969 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:50:55.557 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:51:00.167 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:51:00.186 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:51:08.609 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:51:13.187 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:51:17.650 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:51:25.248 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 14:51:35.868 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:51:35.868 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:51:35.868 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:51:35.868 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:51:35.868 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 14:51:36.357 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 14:51:36.770 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 14:59:49.937 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 14:59:55.329 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 14:59:55.348 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:00:07.832 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:00:08.092 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:01:27.599 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:01:32.479 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:01:32.504 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:01:44.877 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:01:45.159 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:02:42.078 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:02:48.066 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:02:48.087 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:02:52.470 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:03:00.551 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:03:22.359 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:03:26.553 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:03:26.574 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:03:32.842 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:03:41.834 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:03:46.533 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:03:51.002 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:04:07.323 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:04:17.622 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:04:17.622 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:04:17.623 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:04:17.623 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:04:17.623 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:04:17.623 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:04:18.098 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 15:04:18.556 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:11:11.670 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:11:14.995 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:11:15.021 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:11:23.343 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:11:28.871 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:11:37.530 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:11:48.341 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:11:48.737 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:22:19.287 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:22:24.314 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:22:24.335 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:22:36.329 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:22:36.561 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:22:44.043 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:22:46.703 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:22:46.725 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:23:41.566 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:23:46.321 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:23:46.344 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:23:57.672 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:24:07.863 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:24:08.091 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:24:38.591 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:24:43.135 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:24:43.156 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:24:54.282 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:02.602 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:07.468 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:17.598 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:22.249 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:26.843 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:34.737 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:25:45.444 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.444 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.444 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.445 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.445 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.445 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.445 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.445 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:25:45.913 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 15:25:46.362 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:32:01.665 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:32:08.397 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:32:08.417 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:32:20.298 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:32:30.674 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:32:30.954 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:33:49.118 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:33:56.237 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:33:56.256 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:34:07.146 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:34:17.581 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:34:17.846 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:39:53.885 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:39:59.077 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:39:59.095 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:40:01.130 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:40:12.669 [main] BaseClass - Extent Report test is created
+[WARN ] 2022-07-29 15:40:23.023 [main] BaseClass - This is Failed
+[INFO ] 2022-07-29 15:40:23.293 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 15:44:23.401 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:44:28.456 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:44:28.475 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:44:40.076 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:44:41.804 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:05.601 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 15:45:09.749 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 15:45:09.770 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:21.346 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:23.212 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:31.464 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:39.859 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:44.938 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:53.948 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:45:58.638 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:46:03.834 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:46:12.114 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.565 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:22.566 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 15:46:23.034 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-29 15:46:23.526 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 16:04:27.933 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 16:04:33.097 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 16:04:33.118 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 16:04:45.420 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 16:04:47.435 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 16:04:58.535 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 16:05:06.825 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 16:05:11.334 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 16:05:20.674 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:00:41.209 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 18:00:46.766 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 18:00:46.788 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:00:57.861 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:01:00.232 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:01:10.679 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:01:19.267 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:01:24.166 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:01:32.901 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:01:34.187 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 18:02:02.428 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 18:02:07.432 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 18:02:07.453 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:19.072 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:22.037 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:31.814 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:40.530 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:45.978 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:54.644 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:02:55.166 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 18:09:26.866 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 18:09:31.041 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 18:09:31.067 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:09:42.931 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:10:26.073 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:10:30.206 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 18:13:33.047 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 18:13:39.676 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 18:13:39.701 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:13:50.774 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:13:53.566 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:14:04.675 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:14:13.339 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:14:18.380 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:14:26.731 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:14:37.233 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-29 18:20:46.157 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-29 18:20:51.651 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-29 18:20:51.677 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:03.517 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:06.039 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:16.549 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:25.229 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:30.010 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:38.980 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:45.867 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:50.543 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:21:58.529 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-29 18:22:09.117 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.117 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.117 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.117 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.118 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.118 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.118 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.118 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.118 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.118 [main] BaseClass - Executed all test
+[INFO ] 2022-07-29 18:22:09.150 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-30 10:52:59.836 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-30 10:53:05.871 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-30 10:53:05.891 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:53:17.776 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:53:20.017 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:53:37.317 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:53:45.719 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:53:51.383 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:54:00.115 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:54:06.627 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:54:11.209 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:54:24.179 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-30 10:55:15.420 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-30 10:55:19.901 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-30 10:55:19.919 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:55:32.508 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:55:35.023 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:55:47.542 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:55:56.108 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:56:00.687 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:56:09.265 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:56:15.991 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:56:20.580 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:56:28.330 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 10:56:38.678 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.679 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 10:56:38.704 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-30 11:09:18.135 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-30 11:09:22.822 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-30 11:09:22.841 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:09:37.972 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:09:37.979 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:09:39.915 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:09:39.919 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:09:50.076 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:09:50.079 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:09:58.521 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:09:58.524 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:10:02.798 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:10:02.800 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:10:11.510 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:10:11.513 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:10:18.180 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:10:18.182 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:10:22.839 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:10:22.842 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:10:30.823 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:10:30.826 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:10:41.116 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:10:41.140 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-30 11:13:28.106 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-30 11:13:33.030 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-30 11:13:33.052 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:13:45.040 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:13:45.046 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:13:47.115 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:13:47.119 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:13:57.287 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:13:57.290 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:05.697 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:05.701 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:10.692 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:10.695 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:19.188 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:19.190 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:25.944 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:25.947 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:30.594 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:30.597 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:38.650 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:38.653 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 11:14:49.365 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 11:14:49.391 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-30 15:00:57.587 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-30 15:01:02.562 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-30 15:01:02.571 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:01:15.135 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-30 15:01:56.928 [main] BaseClass - Initializing all the Methods
+[INFO ] 2022-07-30 15:02:03.099 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-30 15:02:03.135 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:02:16.044 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:02:16.057 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:02:18.723 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:02:18.728 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:02:30.607 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:02:30.610 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:02:40.216 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:02:40.221 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:02:45.715 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:02:45.719 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:02:55.224 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:02:55.229 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:03:03.024 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:03:03.027 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:03:08.895 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:03:08.901 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:03:19.718 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:03:19.721 [main] BaseClass - Extent Report test is created
+[INFO ] 2022-07-30 15:03:31.947 [main] BaseClass - Executed all test
+[INFO ] 2022-07-30 15:03:32.007 [main] BaseClass - Finished Extent Report

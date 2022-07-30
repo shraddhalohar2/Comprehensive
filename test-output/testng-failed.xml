@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.runner.Executing_test_cases">
+        <methods>
+          <include name="step1"/>
+          <include name="step2"/>
+          <include name="step3"/>
+          <include name="setUp"/>
+          <include name="step9"/>
+          <include name="step8"/>
+          <include name="step5"/>
+          <include name="step6"/>
+          <include name="step4"/>
+          <include name="Clear"/>
+          <include name="step7"/>
+          <include name="step10"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Executing_test_cases -->
+      <class name="com.runner.Footer1ContactUs">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="footercontactus"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Footer1ContactUs -->
+      <class name="com.runner.Search">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="search"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Search -->
+      <class name="com.runner.Spinner">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="spinner"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Spinner -->
+      <class name="com.runner.Facebook">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="facebook"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Facebook -->
+      <class name="com.runner.Menu1">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="menu1"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Menu1 -->
+      <class name="com.runner.FooterCA">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="footerca"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.FooterCA -->
+      <class name="com.runner.Menu2">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="menu2"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Menu2 -->
+      <class name="com.runner.FooterIcon">
+        <methods>
+          <include name="footericon"/>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.FooterIcon -->
+      <class name="com.runner.Menu5">
+        <methods>
+          <include name="Clear"/>
+          <include name="setUp"/>
+          <include name="menu5"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Menu5 -->
+      <class name="com.runner.Signup">
+        <methods>
+          <include name="Clear"/>
+          <include name="sign"/>
+          <include name="setUp"/>
+          <include name="InitializeMethods"/>
+        </methods>
+      </class> <!-- com.runner.Signup -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
