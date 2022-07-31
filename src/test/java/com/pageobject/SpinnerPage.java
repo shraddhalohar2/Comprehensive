@@ -7,19 +7,18 @@ import com.uistore.SpinnerUI;
 
 public class SpinnerPage extends BaseClass{
 	
-	public static void spinnerpage(WebDriver driver, String str) throws InterruptedException {
-		driver.findElement(SpinnerUI.spinobj).click();
-		driver.findElement(SpinnerUI.spinobj).click();
+	public static void spinnerpage(WebDriver driver, String str) throws Exception {
+		help.clickm(SpinnerUI.spinobj);
+		help.clickm(SpinnerUI.spinobj);
 		
-		driver.findElement(SpinnerUI.button).click();
-		
-		String txt=driver.findElement(SpinnerUI.text).getText();
+		help.clickm(SpinnerUI.button);
+		String txt = help.getTextm(SpinnerUI.text);
 		if(txt.contains(str)) {
 			//flag = true;
 			Assert.assertTrue(txt.contains(str));
 		}
 		cs.CaptureScreenShot(driver);
-		driver.navigate().to("https://tide.com/en-us");
+		help.home();
 		
 	}
 	

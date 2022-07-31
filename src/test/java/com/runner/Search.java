@@ -7,7 +7,7 @@ import com.pageobject.SearchPage;
 public class Search extends BaseClass{
 	
 	@Test
-	public void search() throws InterruptedException {
+	public void search() throws Exception {
 
 		logger = report.createTest("Search Test");
 		log.info("Extent Report test is created");
@@ -17,7 +17,7 @@ public class Search extends BaseClass{
 		
 		logger.info("Search Activity").assignAuthor("Shraddha");
 
-		SearchPage.searchpage(driver, prod, msg);;
+		SearchPage.searchpage(driver, prod, msg);
 //		Signup sp = new Signup();
 //		sp.sign();
 		//Thread.sleep(5000);

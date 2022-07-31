@@ -2,64 +2,68 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-30T15:01:56 IST" name="Default suite" finished-at="2022-07-30T15:03:31 IST" duration-ms="95016">
+  <suite started-at="2022-07-31T16:40:41 IST" name="Suite" finished-at="2022-07-31T16:42:35 IST" duration-ms="114042">
     <groups>
     </groups>
-    <test started-at="2022-07-30T15:01:56 IST" name="Default test" finished-at="2022-07-30T15:03:31 IST" duration-ms="95016">
+    <test started-at="2022-07-31T16:40:41 IST" name="Test" finished-at="2022-07-31T16:42:35 IST" duration-ms="114042">
       <class name="com.runner.Executing_test_cases">
-        <test-method is-config="true" signature="InitializeMethods()[pri:0, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:01:56 IST" name="InitializeMethods" finished-at="2022-07-30T15:01:56 IST" duration-ms="817" status="PASS">
+        <test-method is-config="true" signature="InitializeMethods()[pri:0, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:40:41 IST" name="InitializeMethods" finished-at="2022-07-31T16:40:41 IST" duration-ms="483" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InitializeMethods -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:01:56 IST" name="setUp" finished-at="2022-07-30T15:02:03 IST" duration-ms="6154" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:40:41 IST" name="setUp" finished-at="2022-07-31T16:40:50 IST" duration-ms="8841" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="step1()[pri:1, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:03 IST" name="step1" finished-at="2022-07-30T15:02:16 IST" duration-ms="12927" status="PASS">
+        <test-method signature="step1()[pri:1, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:40:50 IST" name="step1" finished-at="2022-07-31T16:41:05 IST" duration-ms="15090" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step1 -->
-        <test-method signature="step2()[pri:2, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:16 IST" name="step2" finished-at="2022-07-30T15:02:18 IST" duration-ms="2668" status="PASS">
+        <test-method signature="step2()[pri:2, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:41:05 IST" name="step2" finished-at="2022-07-31T16:41:07 IST" duration-ms="2367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step2 -->
-        <test-method signature="step3()[pri:3, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:18 IST" name="step3" finished-at="2022-07-30T15:02:30 IST" duration-ms="11881" status="PASS">
+        <test-method signature="step3()[pri:3, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:41:07 IST" name="step3" finished-at="2022-07-31T16:41:21 IST" duration-ms="13232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step3 -->
-        <test-method signature="step4()[pri:4, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:30 IST" name="step4" finished-at="2022-07-30T15:02:40 IST" duration-ms="9608" status="PASS">
+        <test-method signature="step4()[pri:4, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:41:21 IST" name="step4" finished-at="2022-07-31T16:41:32 IST" duration-ms="11188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step4 -->
-        <test-method signature="step5()[pri:5, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:40 IST" name="step5" finished-at="2022-07-30T15:02:45 IST" duration-ms="5497" status="PASS">
+        <test-method signature="step5()[pri:5, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:41:32 IST" name="step5" finished-at="2022-07-31T16:41:40 IST" duration-ms="8100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step5 -->
-        <test-method signature="step6()[pri:6, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:45 IST" name="step6" finished-at="2022-07-30T15:02:55 IST" duration-ms="9507" status="PASS">
+        <test-method signature="step6()[pri:6, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:41:40 IST" name="step6" finished-at="2022-07-31T16:41:54 IST" duration-ms="14550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step6 -->
-        <test-method signature="step7()[pri:7, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:02:55 IST" name="step7" finished-at="2022-07-30T15:03:03 IST" duration-ms="7799" status="PASS">
+        <test-method signature="step7()[pri:7, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:41:54 IST" name="step7" finished-at="2022-07-31T16:42:01 IST" duration-ms="7050" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step7 -->
-        <test-method signature="step8()[pri:8, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:03:03 IST" name="step8" finished-at="2022-07-30T15:03:08 IST" duration-ms="5871" status="PASS">
+        <test-method signature="step8()[pri:8, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:42:01 IST" name="step8" finished-at="2022-07-31T16:42:07 IST" duration-ms="5271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step8 -->
-        <test-method signature="step9()[pri:9, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:03:08 IST" name="step9" finished-at="2022-07-30T15:03:19 IST" duration-ms="10821" status="PASS">
+        <test-method signature="step9()[pri:9, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:42:07 IST" name="step9" finished-at="2022-07-31T16:42:23 IST" duration-ms="16764" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step9 -->
-        <test-method signature="step10()[pri:10, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:03:19 IST" name="step10" finished-at="2022-07-30T15:03:31 IST" duration-ms="12227" status="PASS">
+        <test-method signature="step10()[pri:10, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:42:23 IST" name="step10" finished-at="2022-07-31T16:42:35 IST" duration-ms="11063" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- step10 -->
-        <test-method is-config="true" signature="Clear()[pri:0, instance:com.runner.Executing_test_cases@10c626be]" started-at="2022-07-30T15:03:32 IST" name="Clear" finished-at="2022-07-30T15:03:33 IST" duration-ms="1145" status="PASS">
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:42:35 IST" name="exit" finished-at="2022-07-31T16:42:35 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="Clear()[pri:0, instance:com.runner.Executing_test_cases@201b6b6f]" started-at="2022-07-31T16:42:35 IST" name="Clear" finished-at="2022-07-31T16:42:35 IST" duration-ms="223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Clear -->
       </class> <!-- com.runner.Executing_test_cases -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

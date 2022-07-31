@@ -6,7 +6,7 @@ import com.pageobject.FooterIconPage;
 public class FooterIcon extends BaseClass{
 
 	@Test
-	public void footericon() throws InterruptedException {
+	public void footericon() throws Exception {
 
 		logger = report.createTest("Footer - Tide Cleaners Icon Test");
 		log.info("Extent Report test is created");

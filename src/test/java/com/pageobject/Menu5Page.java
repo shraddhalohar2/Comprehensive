@@ -13,31 +13,28 @@ import com.uistore.Menu5UI;
 public class Menu5Page extends BaseClass{
 	
 
-	public static void menu5page(WebDriver driver, String str, String s1) throws InterruptedException {
+	public static void menu5page(WebDriver driver, String str, String s1) throws Exception {
 		
 		String parent=driver.getWindowHandle();
-		driver.findElement(Menu5UI.clickmenu).click();
-		driver.findElement(Menu5UI.option).click();
+		help.clickm(Menu5UI.clickmenu);
+		help.clickm(Menu5UI.option);
 		
-		Set <String> handles =driver.getWindowHandles();
-		Iterator<String> it = handles.iterator();
-		while (it.hasNext()){
-			String newwin = it.next();
-			driver.switchTo().window(newwin);
+		help.switchWindowm();
 			
-			if(driver.getTitle().contains(str)) {
-				String text  = driver.findElement(Menu5UI.text).getText();
+			
+		if(help.getTitlem().contains(str)) {
+				String text  = help.getTextm(Menu5UI.text);
 				if(text.contains(s1))
 				{
 					Assert.assertTrue(text.contains(s1));
 				}
 				
 			}
-		}
+		
 		cs.CaptureScreenShot(driver);
 		driver.switchTo().window(parent);
 		Thread.sleep(3000);
-		driver.navigate().to("https://tide.com/en-us");
+		help.home();
 		
 	}
 	

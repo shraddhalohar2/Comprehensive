@@ -9,13 +9,13 @@ import com.uistore.FooterIconUI;
 
 public class FooterIconPage extends BaseClass{
 	
-	public static void footercontactpage(WebDriver driver, String str) throws InterruptedException {
-		driver.findElement(FooterIconUI.icon).click();
+	public static void footercontactpage(WebDriver driver, String str) throws Exception {
+		help.clickm(FooterIconUI.icon);
 		Thread.sleep(2000);
 		
-		driver.findElement(FooterIconUI.clickOption).click();
+		help.clickm(FooterIconUI.clickOption);
 		
-		String txt=driver.findElement(FooterIconUI.text).getText();
+		String txt = help.getTextm(FooterIconUI.text);
 		
 		cs.CaptureScreenShot(driver);
 		
@@ -24,7 +24,7 @@ public class FooterIconPage extends BaseClass{
 			Assert.assertTrue(txt.contains(str));
 		}
 		
-		driver.navigate().to("https://tide.com/en-us");
+		help.home();
 	}
 	
 

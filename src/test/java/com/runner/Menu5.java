@@ -6,7 +6,7 @@ import com.pageobject.Menu5Page;
 
 public class Menu5 extends BaseClass{
 	@Test
-	public void menu5() throws InterruptedException {
+	public void menu5() throws Exception {
 
 		logger = report.createTest("Menu 5 - Coupon and Rewards Test");
 		log.info("Extent Report test is created");

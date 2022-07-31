@@ -8,7 +8,7 @@ import com.pageobject.SignupPage;
 public class Signup extends BaseClass{
 	
 	@Test
-	public void sign() throws InterruptedException {
+	public void sign() throws Exception {
 
 		logger = report.createTest("Signup Test");
 		log.info("Extent Report test is created");

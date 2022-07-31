@@ -13,16 +13,15 @@ import com.uistore.Menu2UI;
 public class Menu2Page extends BaseClass{
 	
 
-	public static void menu2page(WebDriver driver, String str) throws InterruptedException {
-		Actions a = new Actions(driver);
-		WebElement shop = driver.findElement(Menu2UI.hover);
-		a.moveToElement(shop).perform();
+	public static void menu2page(WebDriver driver, String str) throws Exception {
+
+		help.actionHover(Menu2UI.hover);
 		
-		driver.findElement(Menu2UI.option).click();
+		help.clickm(Menu2UI.option);
 		Thread.sleep(2000);
-		driver.findElement(Menu2UI.learnmore).click();
+		help.clickm(Menu2UI.learnmore);
 		
-		String urltext = driver.findElement(Menu2UI.text).getText();
+		String urltext = help.getTextm(Menu2UI.text);
 		
 		if(urltext.contains(str))
 		{
@@ -34,7 +33,7 @@ public class Menu2Page extends BaseClass{
 		//driver.findElement(Menu2UI.iframepop).click();
 		Thread.sleep(3000);
 		
-		driver.navigate().to("https://tide.com/en-us");
+		help.home();
 	}
 
 }

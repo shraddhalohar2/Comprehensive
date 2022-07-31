@@ -7,7 +7,7 @@ import com.pageobject.Menu2Page;
 
 public class Menu2 extends BaseClass{
 	@Test
-	public void menu2() throws InterruptedException {
+	public void menu2() throws Exception {
 
 		logger = report.createTest("Menu 2 - Our Commitment Test");
 		log.info("Extent Report test is created");

@@ -13,43 +13,31 @@ import com.uistore.SignupUI;
 
 public class SignupPage extends BaseClass{
 	
-public static void signuppage(WebDriver driver, String exstr, String name, String mail, String pass) throws InterruptedException {
+public static void signuppage(WebDriver driver, String exstr, String name, String mail, String pass) throws Exception {
 		
 				
-		driver.findElement(SignupUI.registerbutton).click();
+		help.clickm(SignupUI.registerbutton);
 		
-		WebDriverWait wait=new WebDriverWait(driver,10);
-		//wait.until(ExpectedConditions.elementToBeClickable(SignupUI.iframepop));
-		//driver.findElement(SignupUI.iframepop).click();
 		Thread.sleep(3000);
-		driver.findElement(SignupUI.signupbutton).click();
+		help.clickm(SignupUI.signupbutton);
 		
-		Set <String> handles =driver.getWindowHandles();
-		Iterator<String> it = handles.iterator();
-		while (it.hasNext()){
-			String newwin = it.next();
-			driver.switchTo().window(newwin);
-		}
-		
+		help.switchWindowm();
 		
 		String title = driver.getTitle();
 		
 		if(title.contains(exstr)) {
-			driver.findElement(SignupUI.entername).click();
-			driver.findElement(SignupUI.entername).sendKeys(name);
+			help.clickm(SignupUI.entername);
+			help.sendkeysm(SignupUI.entername, name);
+			help.clickm(SignupUI.enteremail);
+			help.sendkeysm(SignupUI.enteremail, mail);
+			help.clickm(SignupUI.enterpassword);
+			help.sendkeysm(SignupUI.enterpassword, pass);
+			help.waitm(SignupUI.submit);
+			help.clickm(SignupUI.submit);
 			
-			driver.findElement(SignupUI.enteremail).click();
-			driver.findElement(SignupUI.enteremail).sendKeys(mail);
-			
-			driver.findElement(SignupUI.enterpassword).click();
-			driver.findElement(SignupUI.enterpassword).sendKeys(pass);
-			
-			//WebDriverWait wait=new WebDriverWait(driver,10);
-			wait.until(ExpectedConditions.elementToBeClickable(SignupUI.submit));
-			driver.findElement(SignupUI.submit).click();
 			cs.CaptureScreenShot(driver);
 			Thread.sleep(3000);
-			driver.navigate().to("https://tide.com/en-us");
+			help.home();
 			
 		}
 	

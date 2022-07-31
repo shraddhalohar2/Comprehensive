@@ -7,7 +7,7 @@ import com.pageobject.Menu1Page;
 
 public class Facebook extends BaseClass{
 	@Test
-	public void facebook() throws InterruptedException {
+	public void facebook() throws Exception {
 
 		logger = report.createTest("Facebook Test");
 		log.info("Extent Report test is created");

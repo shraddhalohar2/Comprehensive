@@ -7,7 +7,7 @@ import com.pageobject.FooterContactUsPage;
 public class Footer1ContactUs extends BaseClass{
 
 	@Test
-	public void footercontactus() throws InterruptedException {
+	public void footercontactus() throws Exception {
 
 		logger = report.createTest("Footer - Contact Us Test");
 		log.info("Extent Report test is created");

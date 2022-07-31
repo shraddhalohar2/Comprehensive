@@ -3,27 +3,27 @@ package com.pageobject;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-import com.reusablecomponents.ReusableScreenshot;
+import com.reusablecomponents.ReusableHelper;
 import com.runner.BaseClass;
 import com.uistore.FacebookUI;
 
 public class FacebookPage extends BaseClass{
 	
-public static void facebookpage(WebDriver driver, String txt) throws InterruptedException {
+public static void facebookpage(WebDriver driver, String txt) throws Exception {
 
-		
 		//String parent=driver.getWindowHandle();
-		driver.findElement(FacebookUI.icon).click();
+		help.clickm(FacebookUI.icon);
+		cs.CaptureScreenShot(driver);
 		
-		String url = driver.getCurrentUrl();
+		String url = help.getUrl();
 		if(url.equals(txt))
 		{
 			Assert.assertEquals(url, txt);
 			
 		}
-		cs.CaptureScreenShot(driver);
+		
 		Thread.sleep(2000);
-		driver.navigate().to("https://tide.com/en-us");
+		help.home();
 	}
 	
 	

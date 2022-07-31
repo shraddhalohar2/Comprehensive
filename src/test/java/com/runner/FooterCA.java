@@ -7,7 +7,7 @@ import com.pageobject.FooterCAPage;
 public class FooterCA extends BaseClass{
 
 		@Test
-		public void footerca() throws InterruptedException {
+		public void footerca() throws Exception {
 
 			logger = report.createTest("Footer - CA Privacy Test");
 			log.info("Extent Report test is created");

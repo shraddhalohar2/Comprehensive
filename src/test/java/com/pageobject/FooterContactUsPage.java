@@ -8,39 +8,36 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
-import com.reusablecomponents.ReusableScreenshot;
 import com.runner.BaseClass;
 import com.uistore.FooterCAUI;
 import com.uistore.FooterContactUsUI;
 
 public class FooterContactUsPage extends BaseClass{
-	public static void footercontactpage(WebDriver driver, String question, String str) throws InterruptedException {
+	public static void footercontactpage(WebDriver driver, String q, String str) throws Exception {
 		
 		
-		driver.findElement(FooterContactUsUI.contact).click();
+		help.clickm(FooterContactUsUI.contact);
 		
-		WebDriverWait wait=new WebDriverWait(driver,10);
-		wait.until(ExpectedConditions.elementToBeClickable(FooterContactUsUI.iframepop));
-		driver.findElement(FooterContactUsUI.iframepop).click();
+		help.waitm(FooterContactUsUI.iframepop);
+		help.clickm(FooterContactUsUI.iframepop);
 		
 		Thread.sleep(3000);
-		driver.switchTo().frame(0);
+		help.frame();
 		
-		driver.findElement(FooterContactUsUI.question).click();
+		help.clickm(FooterContactUsUI.question);
 		
-		driver.findElement(FooterContactUsUI.question).sendKeys(question);
-		driver.findElement(FooterContactUsUI.question).sendKeys(Keys.ENTER);
-		driver.findElement(FooterContactUsUI.clickques).click();
+		help.sendkeysm(FooterContactUsUI.question, q);
+		help.keyboardm(FooterContactUsUI.question);
+		help.clickm(FooterContactUsUI.clickques);
 		
-		String txt = driver.findElement(FooterContactUsUI.text).getText();
-		
+		String txt = help.getTextm(FooterContactUsUI.text);
+		cs.CaptureScreenShot(driver);
 		if(txt.contains(str))
 		{
 			Assert.assertTrue(txt.contains(str));
 		}
-		cs.CaptureScreenShot(driver);
-		
-		driver.navigate().to("https://tide.com/en-us");
+	
+		help.home();
 	}
 }
 

@@ -7,7 +7,7 @@ import com.pageobject.SpinnerPage;
 public class Spinner extends BaseClass{
 
 		@Test
-		public void spinner() throws InterruptedException {
+		public void spinner() throws Exception {
 
 			logger = report.createTest("Spinner for Makeup Cleaner Test");
 			log.info("Extent Report test is created");
